@@ -1,0 +1,38 @@
+{
+  "name": "treadit",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "browser-router": "0.2.0",
+    "jwt-decode": "2.2.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "7.1.1",
+    "react-router-dom": "5.1.0",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.4",
+    "redux-form": "8.2.6",
+    "redux-thunk": "2.3.0",
+    "route": "0.2.5",
+    "styled-components": "4.4.0",
+    "switch": "0.0.0",
+    "theme-provider": "1.0.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

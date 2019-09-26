@@ -1,2 +1,0 @@
-# treadit
-Created with CodeSandbox
