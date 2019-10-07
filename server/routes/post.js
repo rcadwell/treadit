@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { jwtAuth } = require("../midlewares");
+const { jwtAuth } = require("../middlewares/index");
 const { validateCreatePost } = require("../controllers/validation");
 const postController = require("../controllers/post");
 
